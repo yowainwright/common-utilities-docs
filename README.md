@@ -14,7 +14,7 @@ Common Utilities is an ecosystem of simple utility JavaScript functions for ever
 
 ### Why?
 
-Often engineers write simple functions to do simple things. There is always an option to reach for a heavier tool to do something like a **deep merge**. However, engineers can do something **simple** to satisfy their usecase.   
+Often engineers write simple functions to do simple things. There is always an option to reach for a heavier tool to do something like a **deep merge**. However, engineers can do something **simple** to satisfy their use-case.   
   
 Common Utilities aims to provide functions for the **simple** use-case described above but with **types** and **tests**. This means engineers can use a smaller function from Common Utilities that looks much like something they would write quickly but not need to write tests or types because Common Utilities provides those things. Inversely, using a utility function from Common Utilities adds very little extra bloat for each utility used. 
 
