@@ -2,7 +2,7 @@
 
 ### Installing your desired utility
 
-Common Utilities is a monorepo. To install the dependency you like, add the name of the utility after typing `@common-utilities`
+Common Utilities is a monorepo. To install the dependency you want, add the name of the utility after typing `@common-utilities`
 
 ```bash
 $ pnpm install @common-utilities/<utililty-name>
