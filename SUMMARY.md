@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Cites](cites.md)
 
 ## Getting Started
 
@@ -14,8 +15,4 @@
 ## Glossary
 
 * [Untitled](glossary/untitled.md)
-
----
-
-* [Cites](cites.md)
 
