@@ -1,23 +1,24 @@
 # Usage
 
-## Getting Super Powers
+### Post Install
 
-Becoming a super hero is a fairly straight forward process:
+After installing your package, usage should be self-explanatory.
 
+{% code title="some-javascript-file.js" %}
+```javascript
+import { mergObjects } from '@common-utilities/merge-objects';
+
+mergeObjects({ foo: 'bar' }, { baz: 'biz' }) // 🎉
 ```
-$ give me super-powers
-```
+{% endcode %}
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+But there's more. All Common Utilities are built using Typescript so they come with types
 
-Once you're strong enough, save the world:
+{% code title="some-typescript-file.ts" %}
+```typescript
+import { mergObjects } from '@common-utilities/merge-objects';
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
+mergeObjects({ foo: 'bar' }: unknown, { baz: 'biz' }: unknown); 
 ```
 {% endcode %}
 
