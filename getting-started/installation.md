@@ -1,6 +1,6 @@
 # Installation
 
-## Installing your desired utility
+### Installing your desired utility
 
 Common Utilities is a monorepo. To install the dependency you like, add the name of the utility after typing `@common-utilities`
 
@@ -12,7 +12,7 @@ $ pnpm install @common-utilities/merge-objects
 ```
 
 {% hint style="info" %}
-You don't need to use Pnpm as a package manager. Npm and Yarn are also supported.
+**Package management:** You don't need to use Pnpm as a package manager. Npm and Yarn are also supported.
 {% endhint %}
 
 ### Quick Usage
