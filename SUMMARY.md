@@ -4,6 +4,6 @@
 
 ## Getting Started
 
-* [Usage](getting-started/usage/README.md)
-  * [Installation](getting-started/usage/installation.md)
+* [Installation](getting-started/installation.md)
+* [Usage](getting-started/usage.md)
 
