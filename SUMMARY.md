@@ -9,7 +9,7 @@
 
 ## Packages
 
-* [Untitled](packages/untitled.md)
+* [Contents](packages/untitled.md)
 
 ## Glossary
 
