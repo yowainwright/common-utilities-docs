@@ -15,17 +15,3 @@ $ pnpm install @common-utilities/merge-objects
 **Package management:** You don't need to use Pnpm as a package manager. Npm and Yarn are also supported.
 {% endhint %}
 
-### Quick Usage
-
-Once you've installed your package. Use it as necessary:
-
-{% code title="some-file-using-deep-merge.js" %}
-```javascript
-import { mergObjects } from '@common-utilities/merge-objects';
-
-mergeObjects({ foo: 'bar' }, { baz: 'biz' }) // 🎉
-```
-{% endcode %}
-
-
-
