@@ -9,6 +9,10 @@ $ pnpm install @common-utilities/<utililty-name>
 
 # example 
 $ pnpm install @common-utilities/merge-objects
+# or
+$ npm install @common-utilities/merge-objects
+# or
+$ yarn add @common-utilities/merge-objects
 ```
 
 {% hint style="info" %}
