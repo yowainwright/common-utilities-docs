@@ -1,17 +1,20 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Packages](untitled/README.md)
-  * [Compose](untitled/compose.md)
 
 ## Getting Started
 
 * [Installation](getting-started/installation.md)
 * [Usage](getting-started/usage.md)
 
----
+## Utilities
 
-* [Glossary](untitled-1.md)
-* [Comparision](comparision.md)
-* [Cites](cites.md)
+* [Packages](utilities/untitled-1/README.md)
+  * [Compose](utilities/untitled-1/compose.md)
+* [Glossary](utilities/untitled-1-1.md)
+
+## General
+
+* [Comparision](general/comparision.md)
+* [Cites](general/cites.md)
 

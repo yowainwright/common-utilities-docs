@@ -19,3 +19,11 @@ $ yarn add @common-utilities/merge-objects
 **Package management:** You don't need to use Pnpm as a package manager. Npm and Yarn are also supported.
 {% endhint %}
 
+### Common Utilities 🧰
+
+**No cruft. No bloat. No dependencies.**
+
+Simple, typed, functional, documented, and tested javascript utility functions.
+
+View other [**common utilities**](https://github.com/yowainwright/common-utilities) on Github.
+

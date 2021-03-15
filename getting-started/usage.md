@@ -14,5 +14,11 @@ mergeObjects({ foo: 'bar' }, { baz: 'biz' }) // 🎉
 All Common Utilities are built using Typescript so they come with types!
 {% endhint %}
 
+### Common Utilities 🧰
 
+**No cruft. No bloat. No dependencies.**
+
+Simple, typed, functional, documented, and tested javascript utility functions.
+
+View other [**common utilities**](https://github.com/yowainwright/common-utilities) on Github.
 
