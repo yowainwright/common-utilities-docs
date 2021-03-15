@@ -6,7 +6,20 @@
 
 **Common Utilities** is an ecosystem of simple utility JavaScript functions for everyday development. 
 
-### Why?
+### Hello! 🙌
+
+**This project is built to be a tool on a few levels:**
+
+* Be easy to use 😌
+* Be simple 👌
+* Have Tests ✅
+* Be Typed using Typescript 📝
+* Have examples 📚
+* Be collaborative 🎳
+
+Just because this repository is currently under [**@yowainwright**](https://github.com/yowainwright) ****on Github. It can be moved to a **Github org** if others get involved! Please give **Common Utilities** a [**star on Github**](https://github.com/yowainwright/common-utilities), share, or give feedback if the documentation or packages themselves help you!
+
+### Why? 🤔
 
 Often engineers write simple functions to do simple things. There is always an option to reach for a heavier tool to do something like a **deep merge**. However, engineers can do something **simple** to satisfy their use-case.   
   
