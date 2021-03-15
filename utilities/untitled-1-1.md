@@ -235,7 +235,7 @@ kebabToCamelStringsInObject({ 'test-thing': 'foo' })
 // { testThing: 'foo' }
 ```
 
-### Trim-whitespace 🍢🐫
+### Trim-whitespace ✂️
 
 [**Trim Whitespace**](https://github.com/yowainwright/common-utilities/blob/master/packages/trim-whitespace) is a common function for returning a string with trimmed text.
 
