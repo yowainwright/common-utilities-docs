@@ -11,6 +11,7 @@
 
 * [Packages 📦](utilities/untitled-1/README.md)
   * [Compose 🚂](utilities/untitled-1/compose.md)
+  * [Repeat 🔁](utilities/untitled-1/repeat.md)
   * [Pipe ⛓](utilities/untitled-1/pipe.md)
   * [Trace 👤](utilities/untitled-1/trace.md)
 * [Glossary 📒](utilities/untitled-1-1.md)
