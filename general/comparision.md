@@ -1,4 +1,4 @@
-# Comparision
+# Comparision ⚖️
 
 If you're still undecided on Common Utilities here a few lines of comparison text to take you over the edge.
 

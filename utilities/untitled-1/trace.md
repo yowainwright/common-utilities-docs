@@ -1,4 +1,4 @@
-# Trace
+# Trace 👤
 
 ## @common-utilities/trace 🧰👤
 

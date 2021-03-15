@@ -1,4 +1,4 @@
-# Packages
+# Packages 📦
 
 Common Utilities provides bite-sized packages for each common JavaScript utility.   
 Use what it is needed without what is not.

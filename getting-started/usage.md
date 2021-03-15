@@ -1,4 +1,4 @@
-# Usage
+# Usage 🔧
 
 After installing your package, usage should be self-explanatory.
 

@@ -1,4 +1,4 @@
-# Glossary
+# Glossary 📒
 
 Below are sectioned descriptions and code usages of each implemented Common Utility. Read more about each common utility within each package's README!
 

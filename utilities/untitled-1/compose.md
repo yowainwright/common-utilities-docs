@@ -1,4 +1,4 @@
-# Compose
+# Compose 🚂
 
 ## @common-utilities/compose 🧰 🚂
 
