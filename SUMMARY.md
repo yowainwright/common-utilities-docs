@@ -10,6 +10,7 @@
 ## Utilities
 
 * [Packages](utilities/untitled-1/README.md)
+  * [Trace](utilities/untitled-1/trace.md)
   * [Compose](utilities/untitled-1/compose.md)
 * [Glossary](utilities/untitled-1-1.md)
 
