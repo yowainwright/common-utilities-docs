@@ -34,5 +34,5 @@ const result = compose(add1, subtract2, multiplyBy3)
 
 Simple, typed, functional, documented, and tested javascript utility functions.
 
-View other [common utilities](https://github.com/yowainwright/common-utilities).
+View other [common utilities](https://github.com/yowainwright/common-utilities) on Github.
 
