@@ -2,8 +2,6 @@
 
 Below are sectioned descriptions and code usages of each implemented Common Utility. Read more about each common utility within each package's README!
 
-[Compose](https://github.com/yowainwright/common-utilities#compose-) \| [Head](https://github.com/yowainwright/common-utilities#head-) \| [Pipe](https://github.com/yowainwright/common-utilities#pipe-) \| [Trace](https://github.com/yowainwright/common-utilities#trace-) \| [Repeat](https://github.com/yowainwright/common-utilities#repeat-) \| [Filter-Array](https://github.com/yowainwright/common-utilities#filter-array-) \| [Is-Object](https://github.com/yowainwright/common-utilities#is-object-) \| [Merge-Objects](https://github.com/yowainwright/common-utilities#merge-objects-) \| [String-interpolation](https://github.com/yowainwright/common-utilities#string-interpolation-) \| [Kebab-to-camel-string](https://github.com/yowainwright/common-utilities#kebab-to-camel-string-) \| [Trim-whitespace](https://github.com/yowainwright/common-utilities#trim-whitespace-) \| [Wait-until-defined](https://github.com/yowainwright/common-utilities#wait-until-defined-) \|
-
 ### Compose 🚂
 
 [**Compose**](https://github.com/yowainwright/common-utilities/blob/master/packages/compose) is a common function that take the output from one function and automatically patches it to the input of the next function until it spits out the final value.
