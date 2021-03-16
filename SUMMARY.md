@@ -10,6 +10,8 @@
 ## Utilities
 
 * [Packages 📦](utilities/packages/README.md)
+  * [Merge-objects👯‍♂️](utilities/packages/merge-objects.md)
+  * [String-interpolation🧵](utilities/packages/string-interpolation.md)
   * [Kebab-to-camel-string 🍢🐫](utilities/packages/kebab-to-camel-string.md)
   * [Trim-whitespace ⬜️](utilities/packages/trim-whitespace.md)
   * [Wait-until-defined ⌚️](utilities/packages/wait-until-defined.md)
