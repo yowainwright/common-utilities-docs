@@ -10,6 +10,9 @@
 ## Utilities
 
 * [Packages 📦](utilities/packages/README.md)
+  * [Kebab-to-camel-string 🍢🐫](utilities/packages/kebab-to-camel-string.md)
+  * [Trim-whitespace ⬜️](utilities/packages/trim-whitespace.md)
+  * [Wait-until-defined ⌚️](utilities/packages/wait-until-defined.md)
   * [Compose 🚂](utilities/packages/compose.md)
   * [Repeat 🔁](utilities/packages/repeat.md)
   * [Pipe ⛓](utilities/packages/pipe.md)
