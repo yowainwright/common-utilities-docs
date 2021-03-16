@@ -8,16 +8,16 @@
 
 ### Hello! 🙌
 
-**This project is built to be a tool on a few levels:**
+**This project is built to provide JavaScript utility functions that are:**
 
-* Be easy to use 😌
-* Be simple 👌
-* Have Tests ✅
-* Be Typed using Typescript 📝
-* Have examples 📚
-* Be collaborative 🎳
+* Easy to use 😌
+* Simple 👌
+* Tested ✅
+* Typed \(using Typescript\) 📝
+* Example containing 📚
+* Collaborative 🎳
 
-Just because this repository is currently under [**@yowainwright**](https://github.com/yowainwright) ****on Github. It can be moved to a **Github org** if others get involved! Please give **Common Utilities** a [**star on Github**](https://github.com/yowainwright/common-utilities), share, or give feedback if the documentation or packages themselves help you!
+Just because this repository is currently under [**@yowainwright**](https://github.com/yowainwright) ****on Github. It can be moved to a **Github org** if others get involved! Please give **Common Utilities** a [**star on Github**](https://github.com/yowainwright/common-utilities), share, or give feedback if the documentation or packages themselves help you or need improvement!
 
 ### Why? 🤔
 
