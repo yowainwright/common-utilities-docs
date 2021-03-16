@@ -10,6 +10,7 @@
 ## Utilities
 
 * [Packages 📦](utilities/packages/README.md)
+  * [Filter-array🧹](utilities/packages/filter-array.md)
   * [Merge-objects👯‍♂️](utilities/packages/merge-objects.md)
   * [String-interpolation🧵](utilities/packages/string-interpolation.md)
   * [Kebab-to-camel-string 🍢🐫](utilities/packages/kebab-to-camel-string.md)
