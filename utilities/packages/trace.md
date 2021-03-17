@@ -12,15 +12,6 @@ A common function for tracing values.
 yarn add @common-utilities/trace -D
 ```
 
-### Function
-
-```text
-const trace = (label) => (value) => {
-  console.log(`${label}: ${value}`)
-  return value
-}
-```
-
 ### Usage
 
 ```text

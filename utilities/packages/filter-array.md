@@ -12,12 +12,6 @@
 yarn add @common-utilities/filter-array -D
 ```
 
-### Function
-
-```text
-const filterArray = (arr) => arr.filter((item, index, self) => self.indexOf(item) === index)
-```
-
 ### Usage
 
 ```text

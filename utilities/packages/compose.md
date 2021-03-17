@@ -12,12 +12,6 @@
 yarn add @common-utilities/compose -D
 ```
 
-### Function
-
-```text
-const compose = (...fns) => (val) => fns.reduceRight((fnVal, fn) => fn(fnVal), val)
-```
-
 ### Usage
 
 ```text

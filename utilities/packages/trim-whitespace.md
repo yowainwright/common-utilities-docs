@@ -12,18 +12,6 @@ A common function for trimming whitespace without regex!
 yarn add @common-utilities/trim-whitespace -D
 ```
 
-### Function
-
-```text
-const trimWhitespace = (string) =>
-  string
-    .trim()
-    .split('  ')
-    .map((word) => word.trim())
-    .filter((word) => word !== '')
-    .join(' ')
-```
-
 ### Usage
 
 ```text

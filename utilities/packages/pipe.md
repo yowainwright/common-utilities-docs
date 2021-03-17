@@ -12,12 +12,6 @@
 yarn add @common-utilities/pipe -D
 ```
 
-### Function
-
-```text
-const pipe = (...fns) => (patchedValue) => fns.reduce((fnVal, fn) => fn(fnVal), patchedValue)
-```
-
 ### Usage
 
 ```text
