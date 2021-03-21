@@ -10,6 +10,7 @@
 ## Utilities
 
 * [Packages 📦](utilities/packages/README.md)
+  * [Debounce 🏓](utilities/packages/debounce.md)
   * [Filter-array🧹](utilities/packages/filter-array.md)
   * [Merge-objects👯‍♂️](utilities/packages/merge-objects.md)
   * [String-interpolation🧵](utilities/packages/string-interpolation.md)
