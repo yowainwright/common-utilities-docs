@@ -2,7 +2,7 @@
 
 After installing your package, usage should be self-explanatory.
 
-{% code title="some-javascript-file.js" %}
+{% code title="// example" %}
 ```javascript
 import { mergObjects } from '@common-utilities/merge-objects';
 
@@ -21,4 +21,3 @@ All Common Utilities are built using Typescript so they come with types!
 Simple, typed, functional, documented, and tested javascript utility functions.
 
 View other [**common utilities**](https://github.com/yowainwright/common-utilities) on Github.
-
